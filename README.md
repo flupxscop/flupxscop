@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Flup
 
-<!--
-**flupxscop/flupxscop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Mobile Developer | 🤖 AI Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📱 Flutter & iOS Developer  
+- 🤖 Interested in AI / Machine Learning  
+- 🛠 Currently building mobile apps & AI projects  
+- 🌍 Based in Thailand  
+
+---
+
+## 🧠 Expertise
+I enjoy building clean and user-friendly mobile applications using Flutter and Swift.  
+I also explore AI projects such as image classification and real-world ML applications.
+
+---
+
+## 🛠 Tech Stack
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+
+---
+
+## 📱 Featured Projects
+
+### 🍎 Appleshop (Flutter)
+- Appstore-style UI  
+- Firebase integration  
+👉 https://github.com/flupxscop/Appshop_clone  
+
+---
+
+### 🏦 Banking App (iOS Swift)
+- Mock banking application  
+- UI/UX design + testing  
+👉 https://github.com/flupxscop/LukeBankApp  
+
+---
+
+### 🤖 Skin Disease Classification (AI)
+- CNN + Naive Bayes  
+- Image + metadata classification  
+👉 https://github.com/flupxscop/Skin_Classify_website  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flupxscop&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Contact
+
+- 📧 Email: your@email.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+
+---
+
+⭐ Feel free to check out my projects!
