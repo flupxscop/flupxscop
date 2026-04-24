@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Flup
+# 👋 Hi, I'm Flupxscop
 
 🚀 Mobile Developer | 🤖 AI Enthusiast  
 
@@ -8,7 +8,6 @@
 - 📱 Flutter & iOS Developer  
 - 🤖 Interested in AI / Machine Learning  
 - 🛠 Currently building mobile apps & AI projects  
-- 🌍 Based in Thailand  
 
 ---
 
