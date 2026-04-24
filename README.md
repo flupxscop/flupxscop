@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 📱 Flutter & iOS Developer  
 - 🤖 Interested in AI / Machine Learning  
-- 🛠 Currently building mobile apps & AI projects  
+- 📎 Currently building mobile apps & AI projects  
 
 ---
 
