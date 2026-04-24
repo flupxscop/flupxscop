@@ -59,8 +59,8 @@ I also explore AI projects such as image classification and real-world ML applic
 
 ## 🌐 Contact
 
-- 📧 Email: your@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: nanthawatchan28@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/ChantaroNtw  
 
 ---
 
