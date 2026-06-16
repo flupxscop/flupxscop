@@ -30,6 +30,9 @@ I also explore AI projects such as image classification and real-world ML applic
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![Clerk](https://img.shields.io/badge/Clerk-Auth-purple?logo=clerk)
+![Expo](https://img.shields.io/badge/Expo-000000?logo=Expo&logoColor=white)
+![ReactNative](https://img.shields.io/badge/-React%20native-000?&logo=React)
 
 ---
 
