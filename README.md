@@ -60,8 +60,7 @@ I also explore AI projects such as image classification and real-world ML applic
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flupxscop&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://vercel.app)](https://github.com/flupxscop/github-readme-stats)
 
 ---
 
