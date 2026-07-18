@@ -59,11 +59,6 @@ I also explore AI projects such as image classification and real-world ML applic
 
 ---
 
-## 📊 GitHub Stats
-[![GitHub Stats](https://vercel.app)](https://github.com/flupxscop/github-readme-stats)
-
----
-
 ## 🌐 Contact
 
 - 📧 Email: nanthawatchan28@gmail.com  
